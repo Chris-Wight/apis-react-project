@@ -1,0 +1,14 @@
+
+.dog-gallery-button {
+    background-image: url("../icons/dog-gallery-logo.svg");
+    background-size: 3em;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.postcode-convert-button{
+    background-image: url("../icons/latLonLogo.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
