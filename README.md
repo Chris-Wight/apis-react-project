@@ -16,7 +16,7 @@ Finished.
 ## Setup
 To run this project, save files locally & run within a browser of choice.
 <!-- -->
-HTML Preview - 
+HTML Preview - https://peppy-kelpie-d77ee7.netlify.app
 
 ## Project Origin
 Codecademy course project - React component introduction.
